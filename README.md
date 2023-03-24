@@ -1,2 +1,2 @@
-# LibertadoresSeeder
-Seeder simulator for Copa Libertadores 2023
+# LibertadoresDrawSimulator
+Draw simulator for Copa Libertadores 2023
