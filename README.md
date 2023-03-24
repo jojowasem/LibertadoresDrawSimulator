@@ -1,2 +1,2 @@
-# LibertadoresDrawSimulator
-Draw simulator for Copa Libertadores 2023
+# Libertadores Draw Simulator
+Draw simulator for Copa Libertadores 2023, but also works for previous editions if you change the data input.
